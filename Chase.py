@@ -231,3 +231,4 @@ for i in range (37):
 turn = switchturn(turn)
 taketurn(turn)
 
+wn.mainloop()
